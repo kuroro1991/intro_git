@@ -1,6 +1,6 @@
-gitの練習
-2回目の変更
+Gitの練習
+基本的なワークフロー
 ・git add
 ・git commit
-
-3回目の変更
+・git rm
+・git status
